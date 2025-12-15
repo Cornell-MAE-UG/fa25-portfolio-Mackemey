@@ -3,7 +3,7 @@ layout: project
 title:  MAE4272 Blade Design
 description: Class project with Graphs
 technologies: [MATLAB, CAD]
-image: /assets/images/PowerCurves.png
+image: /assets/images/windturbine.png
 ---
 
 Project overview 
@@ -42,4 +42,4 @@ experimental process. I planned the preliminary blade experimental testing plan 
  VI during the actual lab period. I also post-processed the collected experimental data to create power and 
  torque curves that were used to compared to our predicted theoretical models. 
 
-/assets/images/windturbine.png
+/assets/images/PowerCurves.png
