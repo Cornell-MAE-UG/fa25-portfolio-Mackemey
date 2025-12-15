@@ -25,6 +25,8 @@ The blade was designed using Blade Element Momentum (BEM) theory, with the hypot
  in CAD. Power, torque, and stress predictions were generated to verify that all constraints were satisfied 
  before fabrication and testing. 
 
+ ![CAD Model]({{ "/assets/images/CAD.png" | relative_url }}){: .inline-image-r style="width: 200px"}
+
 Testing summary 
 
 The blades were tested in a wind tunnel across wind speeds from approximately 3-6 m/s using a torque brake 
@@ -37,10 +39,10 @@ at higher wind speeds due to torque brake limitations. These discrepancies highl
 
 My contribution
 
-Beyond being an incredibly supportive and loving group member, I contributed to the inital blade design and 
-experimental process. I planned the preliminary blade experimental testing plan and controlled the LabVIEW 
- VI during the actual lab period. I also post-processed the collected experimental data to create power and 
- torque curves that were used to compared to our predicted theoretical models. 
+As a group, we equally contributed throughout the design, experimental, and analytical process. I contributed to the inital blade design and experimental process. I planned the preliminary blade 
+experimental testing plan and controlled the LabVIEW VI during the actual lab period. I also 
+post-processed the collected experimental data to create power and torque curves that were used to compared
+to our predicted theoretical models. 
 
-![Power and Torque Curves]({{ "/assets/images/windturbine.jpg" | relative_url }}){: .inline-image-r style="width: 200px"}
+![Power and Torque Curves]({{ "/assets/images/windturbine.png" | relative_url }}){: .inline-image-r style="width: 200px"}
 
