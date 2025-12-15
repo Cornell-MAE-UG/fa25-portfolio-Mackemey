@@ -6,7 +6,7 @@ title: Mackemey Munion
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/profile-pic.jpg.webp" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ "assets/images/me.jpeg" | relative_url }}){: class="profile-image"}
 
  
 My name is {{ site.name }}, and I am graduating December, 2025. I am a MechE and I work as a Raptor Tooling Engineer at SpaceX starting Feb 2026. 
