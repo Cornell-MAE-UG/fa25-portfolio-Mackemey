@@ -8,7 +8,7 @@ image: /assets/images/windturbine.png
 
 ### Project overview 
 
-This project was focussed on designing and testing a small scale- wind turbine to maximize power output 
+This project was focussed on designing and testing a small-scale wind turbine to maximize power output 
 while meeting torque, RPM, stress, and geometry constraints. The blade was intended to operate efficiently 
 within the most probable wind speeds determined by the Weibull distribution, while remaining compatible 
 with available lab hardware and manufacturing limits. The overall goal was to compare theoretical 
@@ -17,7 +17,7 @@ modesl represent real world behavior.
 
 ### Design process 
 
- ![CAD Model]({{ "/assets/images/CAD.png" | relative_url }}){: .inline-image-r style="width: 200px"}
+ ![CAD Model]({{ "/assets/images/CAD.png" | relative_url }}){: .inline-image-r style="width: 300px"}
 
 The blade was designed using Blade Element Momentum (BEM) theory, with the hypothesis that maximizing
  life-to-drag ratio along the span would maximize power output. The NACA 4412 airfoil was selected for its 
@@ -45,5 +45,5 @@ experimental testing plan and controlled the LabVIEW VI during the actual lab pe
 post-processed the collected experimental data to create power and torque curves that were used to compared
 to our predicted theoretical models. 
 
-![Power and Torque Curves]({{ "/assets/images/PowerCurves.png" | relative_url }}){: .inline-image-r style="width: 200px"}
+![Power and Torque Curves]({{ "/assets/images/PowerCurves.png" | relative_url }}){: .inline-image-r style="width: 500px"}
 
