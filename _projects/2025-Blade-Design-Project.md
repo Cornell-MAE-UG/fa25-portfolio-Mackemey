@@ -42,6 +42,5 @@ experimental process. I planned the preliminary blade experimental testing plan 
  VI during the actual lab period. I also post-processed the collected experimental data to create power and 
  torque curves that were used to compared to our predicted theoretical models. 
 
-<p align="center">
-    <img src="assets/images/PowerCurves.png" width="400">
-</p>
+![Power and Torque Curves]({{ "/assets/images/windturbine.jpg" | relative_url }}){: .inline-image-r style="width: 200px"}
+
