@@ -27,7 +27,7 @@ The blade was designed using Blade Element Momentum (BEM) theory, with the hypot
 
  ![CAD Model]({{ "/assets/images/CAD.png" | relative_url }}){: .inline-image-r style="width: 200px"}
 
-Testing summary 
+Testing summary
 
 The blades were tested in a wind tunnel across wind speeds from approximately 3-6 m/s using a torque brake 
 and LabVIEW data aquisition system. Power and torque were measured by incrementally increaing brake laod at 
