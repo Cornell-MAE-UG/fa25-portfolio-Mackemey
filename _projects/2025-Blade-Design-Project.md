@@ -6,7 +6,7 @@ technologies: [MATLAB, CAD]
 image: /assets/images/windturbine.png
 ---
 
-### Project overview 
+### Project Overview 
 
 This project was focussed on designing and testing a small-scale wind turbine to maximize power output 
 while meeting torque, RPM, stress, and geometry constraints. The blade was intended to operate efficiently 
@@ -15,7 +15,7 @@ with available lab hardware and manufacturing limits. The overall goal was to co
 performance predictions to experimental wind tunnel results and evaluate how well simplified aerodynamics 
 modesl represent real world behavior. 
 
-### Design process 
+### Design Process 
 
  ![CAD Model]({{ "/assets/images/CAD.png" | relative_url }}){: .inline-image-r style="width: 300px"}
 
@@ -28,7 +28,7 @@ The blade was designed using Blade Element Momentum (BEM) theory, with the hypot
  before fabrication and testing. 
 
 
-### Testing summary
+### Testing Summary
 
 The blades were tested in a wind tunnel across wind speeds from approximately 3-6 m/s using a torque brake 
 and LabVIEW data aquisition system. Power and torque were measured by incrementally increaing brake laod at 
@@ -38,12 +38,12 @@ experimental power output was roughly 50% of predicted values, and full power cu
 at higher wind speeds due to torque brake limitations. These discrepancies highlighted the limitations of
  the simplified, frictionless theoretical model. 
 
-### My contribution
+### My Contribution
 
 As a group, we equally contributed throughout the design, experimental, and analytical process. I contributed to the inital blade design and experimental process. I planned the preliminary blade 
 experimental testing plan and controlled the LabVIEW VI during the actual lab period. I also 
 post-processed the collected experimental data to create power and torque curves that were used to compared
 to our predicted theoretical models. 
 
-![Power and Torque Curves]({{ "/assets/images/PowerCurves.png" | relative_url }}){: .inline-image-r style="width: 500px"}
+![Power and Torque Curves]({{ "/assets/images/PowerCurves.png" | relative_url }}){: .inline-image-r style="width: 800px"}
 
