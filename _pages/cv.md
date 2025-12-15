@@ -27,21 +27,8 @@ permalink: /cv/
 
 #### Skills
 - **Software:** Anything but GITHUB  
-- **Programming:** MATLAB  
+- **Programming:** NX, Autodesk Inventor, MATLAB  
 - **Tools:** Trak Lathe, Manual Mill & Lathe, Metal Stamping, 3D Printing, Laser Cutting  
-
----
-
-#### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
-
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
 
 ---
 
@@ -51,7 +38,7 @@ permalink: /cv/
   - Raptor  
   - Tooling 
 
-  - **[SpaceX] - Engineering Intern**  
+- **[SpaceX] - Engineering Intern**  
   [May, 2025] - [Aug, 2025] 
   - Raptor  
   - Tooling 
@@ -63,13 +50,10 @@ permalink: /cv/
 
 ---
 
-#### Achievements & Certifications
-- hoepfuly graduating 
 
----
 
 #### Extracurricular Activities
-- Cup robotics 
+- Cornell Electric Vehicles 
 
 ---
 
