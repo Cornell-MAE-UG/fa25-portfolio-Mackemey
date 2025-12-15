@@ -13,7 +13,7 @@ permalink: /cv/
 ---
 
 #### Objective
-...
+Graduate 
 
 ---
 
