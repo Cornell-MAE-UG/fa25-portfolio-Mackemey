@@ -20,18 +20,15 @@ permalink: /cv/
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  GPA: 3.9/4.0 | Graduation: December, 2025
 
-- **[High School Name]**  
-  *High School Diploma*  
-  Graduation: [Month, Year]
 
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
-- **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+- **Software:** Anything but GITHUB  
+- **Programming:** MATLAB  
+- **Tools:** Trak Lathe, Manual Mill & Lathe, Metal Stamping, 3D Printing, Laser Cutting  
 
 ---
 
@@ -49,26 +46,32 @@ permalink: /cv/
 ---
 
 #### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
+- **[SpaceX] - Tooling Engineer**  
+  [Feb, 2026] - Present 
+  - Raptor  
+  - Tooling 
+
+  - **[SpaceX] - Engineering Intern**  
+  [May, 2025] - [Aug, 2025] 
+  - Raptor  
+  - Tooling 
+
+- **[General Motors] - Engineering Intern**  
+  [June, 2024] - [Aug, 2024] 
+  - Make car  
+ 
 
 ---
 
 #### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
+- hoepfuly graduating 
 
 ---
 
 #### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
+- Cup robotics 
 
 ---
 
-#### References
-Available upon request.
 
 ---
