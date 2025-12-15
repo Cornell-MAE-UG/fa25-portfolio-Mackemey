@@ -8,7 +8,7 @@ permalink: /cv/
 [Download my CV]({{ "/assets/images/MackemeyMunionResume.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:mcm329@cornell.edu) 
+**Email:** [mcm329@cornell.edu](mailto:mcm329@cornell.edu) 
 
 ---
 

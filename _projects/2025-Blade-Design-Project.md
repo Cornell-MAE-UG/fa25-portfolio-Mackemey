@@ -17,6 +17,8 @@ modesl represent real world behavior.
 
 ### Design process 
 
+ ![CAD Model]({{ "/assets/images/CAD.png" | relative_url }}){: .inline-image-r style="width: 200px"}
+
 The blade was designed using Blade Element Momentum (BEM) theory, with the hypothesis that maximizing
  life-to-drag ratio along the span would maximize power output. The NACA 4412 airfoil was selected for its 
  high Cl/Cd at low Reynolds numbers, and the blade geometry was optimized for average operating conditions 
@@ -25,7 +27,6 @@ The blade was designed using Blade Element Momentum (BEM) theory, with the hypot
  in CAD. Power, torque, and stress predictions were generated to verify that all constraints were satisfied 
  before fabrication and testing. 
 
- ![CAD Model]({{ "/assets/images/CAD.png" | relative_url }}){: .inline-image-r style="width: 200px"}
 
 ### Testing summary
 
@@ -44,5 +45,5 @@ experimental testing plan and controlled the LabVIEW VI during the actual lab pe
 post-processed the collected experimental data to create power and torque curves that were used to compared
 to our predicted theoretical models. 
 
-![Power and Torque Curves]({{ "/assets/images/windturbine.png" | relative_url }}){: .inline-image-r style="width: 200px"}
+![Power and Torque Curves]({{ "/assets/images/PowerCurves.png" | relative_url }}){: .inline-image-r style="width: 200px"}
 
